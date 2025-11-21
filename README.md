@@ -14,8 +14,7 @@
 
 ---
 
-### 👨‍💻 About Me
-- 💻 I’m a **Full Stack Developer** & **AI/ML Enthusiast**  
+### 👨‍💻 About Me 
 - 🚀 Skilled in **java script, Python,C language,C++,DSA, and AI/ML frameworks**  
 - 📚 Currently exploring **Deep Learning,Web Design, Cloud & DevOps**  
 - 🎯 Passionate about building scalable web apps and intelligent systems  
@@ -26,8 +25,9 @@
 ### 🚀 Tech Stack
 #### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,postgres,sqlite,git,github,docker,kubernetes,linux,azure,tensorflow,pytorch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,cplusplus,react,nodejs,express,mongodb,mysql,git,github,docker,tensorflow,pytorch,linux,azure&perline=9" />
 </p>
+
 
 ---
 
