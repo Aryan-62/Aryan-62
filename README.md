@@ -37,6 +37,9 @@
 </p>
 
 ---
+### 🛠️ Featured Projects
+- **[Smart Attendance System](link)** — ESP32-S3 + RFID + Flask/SQLite attendance tracker for a 6-person college team
+- **[Project Name](link)** — one-line description of what it does and the stack
 
 ### 📊 GitHub Stats
 <p align="center">
