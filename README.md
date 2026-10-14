@@ -7,9 +7,7 @@
   <a href="https://github.com/Aryan-62" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryan-62&color=blue&style=for-the-badge"/>
-</p> -->
+
 
 
 ---
@@ -35,4 +33,6 @@ Tools & DevOps
 
 ---
 
-<p align="center"><i>⭐ Feel free to explore my repositories and connect with me!</i></p>
+<p align="center">
+  <code>👨🏻‍💻 Feel free to explore my repos and connect with me!</code>
+</p>
