@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryan-62&color=blue&style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Aryan-62&color=blue&style=for-the-badge"/>
 </p>
 
 
